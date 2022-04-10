@@ -10,7 +10,7 @@ set shiftwidth=4
 set number 
 set ruler 
 set incsearch 
-set hlsearch d as you type
+set hlsearch 
 set backspace=2 
 "color dracula
 """"""""""""""""""""""""""""""""""""""""""
